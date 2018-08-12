@@ -1,5 +1,5 @@
 source "https://rubygems.org" do
-gem 'hashie'
+gem "hashie"
 
 gem "rspec"
 gem "sinatra", '1.4.4'
